@@ -1,7 +1,7 @@
 #include <pebble.h>
 
 #define DUMP_START 0x8000000
-#define DUMP_END 0x80001F0
+#define DUMP_END 0x8080000
 #define BLOCK_SIZE 32
 
 int main(void) {
