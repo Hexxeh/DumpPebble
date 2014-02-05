@@ -1,0 +1,17 @@
+{
+  "uuid": "5031fa30-434b-4ee1-ae19-736a59bdeae7",
+  "shortName": "DumpPebble",
+  "longName": "DumpPebble",
+  "companyName": "Hexxeh.net",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
