@@ -6,6 +6,8 @@ Notes
 
 This is awful, but it works. Mostly...
 
+MPU will kill your app if you start poking regions of memory it doesn't want you to. Install a firmware where the MPU is disabled to avoid this.
+
 Usage
 -----
 
